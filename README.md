@@ -1,130 +1,63 @@
-# Hey, I'm Rudraksh Kushwah 👋
+# Hey, I'm Rudraksh 👋
 
-### Backend Developer | Django | REST APIs | DevOps
+I'm a **Backend Developer** who enjoys building things with Python and Django.
 
-I'm a Computer Science student passionate about **backend development, APIs, system design, and DevOps**.
+Currently, I'm focused on getting really good at **backend development** — writing APIs, understanding databases, authentication, security, and learning how real production systems are put together.
 
-I enjoy building real-world applications, solving problems with code, and understanding how systems work behind the scenes.
-
----
-
-## 🚀 What I'm Currently Working On
-
-* 🔧 Building production-oriented backend applications with **Django & Django REST Framework**
-* 🔐 Learning and implementing **authentication, security & validation**
-* ☁️ Exploring **DevOps, Linux, Cloud & CI/CD**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🛠️ Building real-world projects with a focus on **clean architecture and production-level practices**
+I'm also exploring **Linux, DevOps and Cloud** alongside backend development.
 
 ---
 
-## 🧰 Tech Stack
+### What I work with
 
-### Backend
+`Python` `Django` `Django REST Framework` `PostgreSQL` `Redis`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,nginx,aws" />
-</p>
-
-### Currently Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
-</p>
+`Linux` `Git` `GitHub` `Nginx` `Bash`
 
 ---
 
-## 🔨 Current Project
+### Currently Building
 
-### 🛒 BiteBazaar Backend
+**🛒 BiteBazaar**
 
-A **production-oriented e-commerce backend** built with Django REST Framework.
+A backend for an e-commerce platform that I'm building from the ground up with **Django REST Framework**.
 
-The project is being developed with a focus on understanding how real-world backend systems are designed, secured, validated, and deployed.
+I'm using this project to go beyond just making APIs work and learn how to build a backend with proper **architecture, security, validation, authentication, database design and production practices**.
 
-### Working On
-
-* 🔐 Authentication & authorization
-* 👤 User & profile management
-* 🛍️ Product & category management
-* 🛒 Cart & order workflows
-* 💳 Payment integration
-* 📦 Order processing
-* 🔒 Security & validation
-* ⚡ Redis-based functionality
-* 🗄️ PostgreSQL
-* 🚀 Production-ready architecture
-
-**Tech:** `Python` `Django` `Django REST Framework` `PostgreSQL` `Redis`
+> Building it, breaking it, fixing it — that's how I'm learning.
 
 ---
 
-## 🧠 Problem Solving
+### What I'm Learning
 
-I'm currently strengthening my **DSA fundamentals** and practicing problem-solving through LeetCode.
-
-### Areas I'm Practicing
-
-`Arrays` • `Hashing` • `Two Pointers` • `Sliding Window` • `Binary Search`
-
-`Linked Lists` • `Stacks & Queues` • `Trees` • `Graphs`
-
----
-
-## 🌱 My Current Learning Path
-
-```text
-Django & REST APIs
-        ↓
-Backend Architecture & Security
-        ↓
-Linux & Shell Scripting
-        ↓
-DevOps & CI/CD
-        ↓
-Cloud & Infrastructure
-```
-
-Alongside this, I'm continuously working on **DSA and interview preparation**.
+* Backend architecture & API design
+* Authentication & security
+* PostgreSQL & Redis
+* Linux & Shell Scripting
+* DevOps & CI/CD
+* Cloud
+* Data Structures & Algorithms
 
 ---
 
-## ⚙️ Development Philosophy
+### A little about me
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+🎓 Computer Science student
 
-I believe the best way to learn software engineering is to **build real things, face real problems, and understand why the solution works.**
+💻 Backend development enthusiast
 
----
+🧠 Currently practicing DSA
 
-## 📊 GitHub Stats
+☁️ Learning DevOps & Cloud
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushwahrudraksh3-png&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwahrudraksh3-png&layout=compact&hide_border=true" height="170"/>
-</p>
+🚀 Trying to become a better engineer by **building instead of just watching tutorials**
 
 ---
 
-## 🤝 Connect With Me
+### Let's Connect
 
-<p>
-  <a href="https://github.com/kushwahrudraksh3-png">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[GitHub](https://github.com/kushwahrudraksh3-png) • [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-
-I'm always learning, building, and improving one project at a time.
+*"Code. Build. Break. Learn. Repeat."*
